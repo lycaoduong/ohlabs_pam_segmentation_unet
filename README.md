@@ -1,4 +1,4 @@
-## Skin and Blood Vessels Segmentation in Photoacoustic Imaging based on Deep Learning
+## Full-view in vivo Skin and Blood Vessels Segmentation in Photoacoustic Imaging based on Deep Learning
 
 # **Libraries Requirement**
 This project depends on the following libraries:
