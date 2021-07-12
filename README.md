@@ -30,4 +30,4 @@ This project depends on the following libraries:
 # **Result**
 Input image | Predicted Output | 3D rendering by leveraging union of B-scan 
 --- | --- | --- 
-![plot](./data/test/hand/image/bscan_284.png) | ![plot](./data/test/hand/predict_colormap/bscan_284.png) | 283 
+![plot](./data/test/hand/image/bscan_310.png) | ![plot](./data/test/hand/predict_colormap/bscan_310.png) | 283 
