@@ -75,9 +75,10 @@ def predict_from_img(img_path, multi_class=False):
     plt.imshow(img_predict, cmap="viridis")
     plt.show()
 
-imgp = "./data/test/hand/image/"
-save = "./data/test/hand/predict/"
-predict_all_Bscan(imgp, save)
+# imgp = "./data/test/hand/image/"
+# save = "./data/test/hand/predict/"
+# predict_all_Bscan(imgp, save)
 
 # imgp = "./data/test/hand/image/bscan_195.png"
 # predict_from_img(imgp)
+
