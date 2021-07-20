@@ -28,8 +28,8 @@ patch_h = 256
 
 # file_path = "./data/pam/foot/train/"
 file_path = "./data/train/hand/"
-xpath = os.path.join(file_path, "gen_image")
-ypath = os.path.join(file_path, "gen_label")
+xpath = os.path.join(file_path, "image")
+ypath = os.path.join(file_path, "label")
 
 data = os.listdir(xpath)
 label = os.listdir(ypath)
@@ -98,7 +98,7 @@ acc_loss.append(result.history['loss'])
 acc_loss.append(result.history['val_loss'])
 acc_loss = np.array(acc_loss)
 print(acc_loss.shape)
-np.save("./data/model_checkpoint/acc_loss.npy", acc_loss)
+# np.save("./data/model_checkpoint/acc_loss.npy", acc_loss)
 
 # plt.plot(np.arange(len(result.history['accuracy'])), result.history['accuracy'], label='training')
 # plt.plot(np.arange(len(result.history['val_accuracy'])), result.history['val_accuracy'], label='validation')
