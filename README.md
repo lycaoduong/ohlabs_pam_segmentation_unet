@@ -1,4 +1,4 @@
-## ohlabs_pam_segmentation_unet
+## Full-view in vivo Skin and Blood Vessels Segmentation in Photoacoustic Imaging based on Deep Learning
 
 # **Libraries Requirement**
 This project depends on the following libraries:
@@ -30,4 +30,8 @@ This project depends on the following libraries:
 # **Result**
 Input image | Predicted Output | 3D rendering by leveraging union of B-scan 
 --- | --- | --- 
-![plot](./data/test/hand/image/bscan_310.png) | ![plot](./data/test/hand/predict_colormap/bscan_310.png) | 283 
+![plot](./data/test/hand/image/bscan_310.png) | ![plot](./data/test/hand/predict_colormap/bscan_310.png) | ![plot](./data/result/hand.PNG)
+
+# **Acknowledgments**
+- Any ideas on updating or misunderstanding, please send me an email: lycaoduong@gmail.com
+- If you find this repo helpful, kindly give me a start!
