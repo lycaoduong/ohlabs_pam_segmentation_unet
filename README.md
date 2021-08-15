@@ -11,7 +11,7 @@ This project depends on the following libraries:
 
 # **Training**
 - Run train.py 
-- You can change the model in line 80: model = . In this project I used three kind of model:
+- You can change the model on the line 80th: model = . In this project I used three kind of model:
   - U-Net
   - SegNet-5 (VGG16 backbone)
   - FCN-8 (VGG16 backbone)
