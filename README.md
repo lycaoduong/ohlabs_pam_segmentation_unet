@@ -40,7 +40,7 @@ Input image | Predicted Output | 3D rendering by leveraging union of B-scan
 @article{
   title={Full-view in vivo skin and blood vessels profile segmentation in photoacoustic imaging based on deep learning},
   author={Cao Duong Ly, Van Tu Nguyen, Tan Hung Vo, Sudip Mondal, Sumin Park, Jaeyeop Choi, Thi Thu Ha Vu, Chang-SeokKim, JunghwanOh},
-  journal={Photoacoustiscs},
+  journal={Photoacoustics},
   year={2021}
 }
 
