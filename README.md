@@ -1,11 +1,17 @@
+### :star: This is the official repo for our paper **Full-view in vivo Skin and Blood Vessels Segmentation in Photoacoustic Imaging based on Deep Learning** published in Photoacoustics 2022 :star:
+
+
 <p align="center">
-  <img width="100%" src="figures/main.jpg">
-  
-  <h1 align="center">PAM UNET KERAS</h1>
-    
+      <a href="https://doi.org/10.1016/j.pacs.2021.100310"><img alt="Google Scholar" src="https://img.shields.io/badge/DOI-10.1016/j.pacs.2021.100310-green?color=FF8000&logoColor=white"></a>
+      <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
+      <img alt="Keras" src="https://img.shields.io/badge/tensorflow-keras-orange" />
+      <a href="https://github.com/lycaoduong/ohlabs_pam_segmentation_unet/stargazers"><img alt="Stargazers" src="https://img.shields.io/github/stars/lycaoduong/ohlabs_pam_segmentation_unet?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
+
 </p>
 
-### This is the official repo for our paper **Full-view in vivo Skin and Blood Vessels Segmentation in Photoacoustic Imaging based on Deep Learning** published in Photoacoustics 2022:
+<p align="center">
+  <img width="70%" src="figures/main.jpg">
+</p>
 
 # **Libraries Requirement**
 This project depends on the following libraries:
