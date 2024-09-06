@@ -1,4 +1,11 @@
-## Full-view in vivo Skin and Blood Vessels Segmentation in Photoacoustic Imaging based on Deep Learning
+<p align="center">
+  <img width="100%" src="figures/main.jpg">
+  
+  <h1 align="center">PAM UNET KERAS</h1>
+    
+</p>
+
+### This is the official repo for our paper **Full-view in vivo Skin and Blood Vessels Segmentation in Photoacoustic Imaging based on Deep Learning** published in Photoacoustics 2022:
 
 # **Libraries Requirement**
 This project depends on the following libraries:
